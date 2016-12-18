@@ -1,5 +1,6 @@
-On OpenBSD to connect a Serial to USB 
-plugging in one of those neat usb to convertors 
+##Serial to USB On OpenBSD 
+
+To connect one of those neat usb to serial convertors for console access to your switch, console, etc. 
 
 mine is (tbd...) and shows up in dmesg like so
 
