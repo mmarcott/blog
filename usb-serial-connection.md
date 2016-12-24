@@ -15,7 +15,7 @@ cu -d -s9600 -lcuaU0
 ```
 press **Enter** to get a prompt
 
-Do you dirty work.  
+Do your dirty work.  
 
 To exit cu type
 
